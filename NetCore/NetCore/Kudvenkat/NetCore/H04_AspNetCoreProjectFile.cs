@@ -34,6 +34,8 @@ namespace NetCore.Kudvenkat.NetCore
             
             - To specify a target framework we use Target Framework Moniker (TFM). The value we will see there is <TargetFramework>net5.0</TargetFramework>.
             
+            - A Target Framework Moniker (TFM) is a standardized token format for specifying the target framework of a .NET app or library.
+            
             - To understand the naming conventions used for these Target Framework Monikers. Below are the naming convention:
             
             +-------------------------+-------------------------+-------------------------+
