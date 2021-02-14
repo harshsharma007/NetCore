@@ -64,6 +64,8 @@ namespace NetCore.Kudvenkat.NetCore
             This command will build and run our ASP.NET Core project using the .NET Core CLI. Important: When a .NET Core application is executed using the .NET
             Core CLI, Kestrel is used as the Web Server. And remember in Kestrel the name of the process that hosts and runs our application is dotnet.exe and when
             you run an application using a CLI the name of the Process would be dotnet.exe.
+            
+            But now from Core 2.2, the process name is the profile name specified in launchSettings.json.
         */
     }
 }

@@ -42,7 +42,8 @@ namespace NetCore
                 {
                     await context.Response.//WriteAsync(System.Reflection.Assembly.GetEntryAssembly().FullName);
                     // To fetch the value of key present in appsettings.json
-                    WriteAsync(_config["MyKey"]);
+                    // WriteAsync(_config["MyKey"]);
+                    WriteAsync(System.Diagnostics.Process.GetCurrentProcess().ProcessName);
                 });
             });
         }

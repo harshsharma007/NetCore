@@ -21,13 +21,13 @@ namespace NetCore.Kudvenkat.NetCore
             
             - It is this Main method that configures ASP.NET Core and starts it. It is at this point it becomes an ASP.NET Core Web Application.
             
-            - The Main method calls "CreateWebHostBuilder" passing it command line arguments (args) that are coming into the Main method.
+            - The Main method calls "CreateHostBuilder" passing it command line arguments (args) that are coming into the Main method.
             
-            - The "CreateWebHostBuilder" method is just below Main method. This method returns an object that implements "IWebHostBuilder". On the object that this
+            - The "CreateHostBuilder" method is just below Main method. This method returns an object that implements "IHostBuilder". On the object that this
               method returns we are calling "Build" method (in the Main method). The Build method builds the WebHost that hosts the ASP.NET Core application. On that
               WebHost we are again calling Run method. The Run method runs the web application and it starts listening for the incoming HTTP request.
             
-            - The "CreateWebHostBuilder" method calls "CreateDefaultBuilder" method of the WebHost class. This is a static method and it is this method that creates
+            - The "CreateHostBuilder" method calls "CreateDefaultBuilder" method of the Host class. This is a static method and it is this method that creates
               the WebHost with certain preconfigured defaults. To create a WebHost "CreateDefaultBuilder" does several things.
             
             - Another important point to notice here is, as part of setting up the WebHost we are also configuring the "Startup" class using an extension method
