@@ -11,7 +11,7 @@ namespace NetCore.Kudvenkat.NetCore
             You will find this in Properties folder in Solution Explorer. The settings in this file are used when we run the ASP.NET Core project from Visual Studio 
             or by using .NET Core CLI.
             
-            The important point to keep in mind is this file is only required on our local development machine we do not need it for publishing our ASP.NET Core
+            The important point to keep in mind is, this file is only required on our local development machine we do not need it for publishing our ASP.NET Core
             application. If there are certain settings that you want your ASP.NET Core application to use when you publish and deploy your app, store those settings
             in this AppSettings.json file. We usually store our application configuration settings in this file. We can also have environment specific AppSettings.json
             files e.g. AppSettings.Staging.json for the staging envrionment.
