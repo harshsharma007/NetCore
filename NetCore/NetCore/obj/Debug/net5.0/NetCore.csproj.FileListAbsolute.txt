@@ -7,7 +7,6 @@ C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\bin\Debug\net5.0\NetCore.runt
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\bin\Debug\net5.0\NetCore.dll
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\bin\Debug\net5.0\ref\NetCore.dll
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\bin\Debug\net5.0\NetCore.pdb
-C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.csprojAssemblyReference.cache
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.AssemblyInfo.cs
@@ -21,3 +20,4 @@ C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.dll
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\ref\NetCore.dll
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.pdb
 C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.genruntimeconfig.cache
+C:\Users\DELL\source\repos\NetCore\NetCore\NetCore\obj\Debug\net5.0\NetCore.csprojAssemblyReference.cache
